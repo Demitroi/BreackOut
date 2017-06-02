@@ -1,0 +1,13 @@
+c:\users\demitroi m\documents\visual studio 2013\Projects\Breackout Final\Breackout Final\bin\Debug\Breackout Final.exe.config
+C:\Users\Demitroi M\documents\visual studio 2013\Projects\Breackout Final\Breackout Final\bin\Debug\Breackout Final.exe
+C:\Users\Demitroi M\documents\visual studio 2013\Projects\Breackout Final\Breackout Final\bin\Debug\Breackout Final.pdb
+C:\Users\Demitroi M\documents\visual studio 2013\Projects\Breackout Final\Breackout Final\obj\Debug\Breackout_Final.Properties.Resources.resources
+C:\Users\Demitroi M\documents\visual studio 2013\Projects\Breackout Final\Breackout Final\obj\Debug\Breackout Final.csproj.GenerateResource.Cache
+C:\Users\Demitroi M\documents\visual studio 2013\Projects\Breackout Final\Breackout Final\obj\Debug\Breackout Final.exe
+C:\Users\Demitroi M\documents\visual studio 2013\Projects\Breackout Final\Breackout Final\obj\Debug\Breackout Final.pdb
+C:\Users\Demitroi M\documents\visual studio 2013\Projects\Breackout Final\Breackout Final\obj\Debug\Breackout_Final.Form1.resources
+C:\Users\Demitroi M\documents\visual studio 2013\Projects\Breackout Final\Breackout Final\obj\Debug\Breackout Final.csprojResolveAssemblyReference.cache
+C:\Users\Demitroi M\documents\visual studio 2013\Projects\Breackout Final\Breackout Final\obj\Debug\Breackout_Final.Form2.resources
+C:\Users\Demitroi Marshall\Documents\Ing. Software\7mo Semestre\Tecnicas de Graficación - Rodriguez\Breackout Final\Breackout Final\bin\Debug\Breackout Final.exe.config
+C:\Users\Demitroi Marshall\Documents\Ing. Software\7mo Semestre\Tecnicas de Graficación - Rodriguez\Breackout Final\Breackout Final\obj\Debug\Breackout Final.exe
+C:\Users\Demitroi Marshall\Documents\Ing. Software\7mo Semestre\Tecnicas de Graficación - Rodriguez\Breackout Final\Breackout Final\obj\Debug\Breackout Final.pdb
